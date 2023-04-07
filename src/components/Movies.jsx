@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react';
 // import Image from "./image.jpg";
 import axios from "axios";
-import Pagination from './Pagination';
 import { Oval } from "react-loader-spinner";
+import Pagination from './Pagination';
+
 
 function Movies() {
 
